@@ -29,7 +29,8 @@ ant compile
 ```bash
 ant run
 ```
-
+![Arkanoid Gameplay1](images/arkanoid1.png)
+![Arkanoid Gameplay2](images/arkanoid2.png)
 
 
 
