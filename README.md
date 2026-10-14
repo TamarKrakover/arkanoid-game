@@ -1,4 +1,5 @@
 # Arkanoid Game 🧱
+*Originally developed during Spring 2025*
 
 A classic Arkanoid/Breakout clone implemented in Java. The player controls a paddle to bounce a ball and destroy all the blocks on the screen without letting the ball fall off the bottom edge.
 
